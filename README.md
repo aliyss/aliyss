@@ -1,5 +1,7 @@
 ### Hey yo
 
+I enjoy chatting... (http://discord.gg/zAypMTH)
+
 Main Languages
 - Typescript
 - Rust
