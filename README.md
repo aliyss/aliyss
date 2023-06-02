@@ -9,3 +9,4 @@ Main Languages
 
 Excel Nonsense?
 - https://github.com/Sentdex/NNfSiX/pull/125
+- https://github.com/ThePrimeagen/ts-rust-zig-deez/pull/137
