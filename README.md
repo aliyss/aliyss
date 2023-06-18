@@ -1,6 +1,6 @@
 ### Hey yo
 
-I enjoy chatting... (http://discord.gg/zAypMTH)
+I enjoy chatting... [Discord](http://discord.gg/zAypMTH)
 
 Main Languages
 - Typescript
