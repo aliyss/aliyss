@@ -1,11 +1,12 @@
 ### Hey yo
 
-I enjoy chatting... [Discord](http://discord.gg/zAypMTH)
+For more of me... [Discord](http://discord.gg/zAypMTH)
 
-Main Languages
+Current Languages
 - Typescript
 - Rust
 - Svelte
+- Qwik
 
 Excel Nonsense?
 - https://github.com/Sentdex/NNfSiX/pull/125
